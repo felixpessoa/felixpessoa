@@ -1,13 +1,15 @@
-### Hi there 👋
+### Olá tubo bem? 👋
+#### Me chamo Félix s2
+#### Dev Back-end em andamento...
 
 ----
 
 <div>
-    <img height="150em" src= "![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixpessoa&show_icons=true&theme=dark)"/>
-    <img height="150em" src= "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixpessoa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felixpessoa&show_icons=true&theme=dark"/>
+    <img height="150em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=felixpessoa&layout=compact"/>
 </div>
     
----
+----
 
 
 ## Contato
