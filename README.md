@@ -1,6 +1,6 @@
 ### Olá tubo bem? 👋
 #### Me chamo Félix s2
-#### Dev Full Stack em andamento...
+#### Dev Full Stack
 
 ----
 
